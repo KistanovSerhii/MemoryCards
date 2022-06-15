@@ -52,8 +52,8 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
-			<Vendor/>
-			<Version/>
+			<Vendor>Kistanov.serhii</Vendor>
+			<Version>1.0.1</Version>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -274,8 +274,15 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Language>English</Language>
+			<Subsystem>Коллекции</Subsystem>
+			<Subsystem>Справочники</Subsystem>
+			<Subsystem>Системные</Subsystem>
 			<Style>Yellow</Style>
 			<Style>Black</Style>
+			<Catalog>Коллекции</Catalog>
+			<Catalog>Карточки</Catalog>
+			<Catalog>Картинки</Catalog>
+			<Catalog>Теги</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
