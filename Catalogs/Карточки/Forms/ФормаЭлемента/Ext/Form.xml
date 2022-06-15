@@ -203,6 +203,11 @@
 					<ContextMenu name="ОтветКартинкаКонтекстноеМеню" id="32"/>
 					<ExtendedTooltip name="ОтветКартинкаРасширеннаяПодсказка" id="33"/>
 				</InputField>
+				<InputField name="Статус" id="64">
+					<DataPath>Объект.Статус</DataPath>
+					<ContextMenu name="СтатусКонтекстноеМеню" id="65"/>
+					<ExtendedTooltip name="СтатусРасширеннаяПодсказка" id="66"/>
+				</InputField>
 			</ChildItems>
 		</UsualGroup>
 		<UsualGroup name="ГруппаКомментарий" id="62">

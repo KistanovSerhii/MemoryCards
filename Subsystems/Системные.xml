@@ -21,6 +21,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Style.Yellow</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Style.Black</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.ИспользованныеКарточки</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

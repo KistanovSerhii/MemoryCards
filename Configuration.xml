@@ -279,10 +279,15 @@
 			<Subsystem>Системные</Subsystem>
 			<Style>Yellow</Style>
 			<Style>Black</Style>
+			<CommonModule>ОбщегоНазначенияСервер</CommonModule>
+			<CommonForm>ФормаВоронка</CommonForm>
+			<CommonForm>ФормаОбучение</CommonForm>
+			<CommonForm>ФормаГлавноеМеню</CommonForm>
 			<Catalog>Коллекции</Catalog>
 			<Catalog>Карточки</Catalog>
 			<Catalog>Картинки</Catalog>
 			<Catalog>Теги</Catalog>
+			<InformationRegister>ИспользованныеКарточки</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
